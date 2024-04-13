@@ -1,2 +1,2 @@
 # GithubTesting
-This repo was created to learn about Github.
+This repo was created just to test and learn about Git
